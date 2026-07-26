@@ -2,9 +2,12 @@ name: Update Experience Years
 
 on:
   schedule:
-    # يعمل تلقائياً في اليوم الأول من كل عام
     - cron: '0 0 1 1 *'
-  workflow_dispatch: # زر التشغيل اليدوي للتجربة
+  workflow_dispatch:
+
+# إضافة صلاحية الكتابة للروبوت هنا
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -12,7 +15,6 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-
       - name: Calculate Experience and Update README
         run: |
           # 1. حساب سنوات الخبرة
