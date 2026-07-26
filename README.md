@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmed Alkamel
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86AB&center=true&vCenter=true&random=false&width=700&height=80&lines=Flutter+Developer+%F0%9F%93%B1;Backend+Developer+%F0%9F%9A%80;Full+Stack+Mobile+Solutions+%F0%9F%92%BB;3%2B+Years+Experience+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86AB&center=true&vCenter=true&random=false&width=700&height=80&lines=Flutter+Developer+%F0%9F%93%B1;Backend+Developer+%F0%9F%9A%80;Full+Stack+Mobile+Solutions+%F0%9F%92%BB;4%2B+Years+Experience+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-**Flutter Developer** with **3+ years of experience** in cross-platform mobile development. I specialize in building comprehensive digital solutions including **Frontend** and **Backend** with a focus on **Clean Architecture** and software engineering best practices.
+**Flutter Developer** with **4+ years of experience** in cross-platform mobile development. I specialize in building comprehensive digital solutions including **Frontend** and **Backend** with a focus on **Clean Architecture** and software engineering best practices.
 
 - 🔭 Currently working on **Flutter** applications with **Laravel Backend**
 - 🌱 Continuously learning the latest **Mobile Development** technologies
@@ -227,7 +227,7 @@
 ## 📊 Quick Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=for-the-badge" alt="Experience" />
   <img src="https://img.shields.io/badge/Published%20Apps-4-green?style=for-the-badge" alt="Published Apps" />
   <img src="https://img.shields.io/badge/Platforms-iOS%20%7C%20Android-orange?style=for-the-badge" alt="Platforms" />
   <img src="https://img.shields.io/badge/Specialization-Full%20Stack%20Mobile-purple?style=for-the-badge" alt="Specialization" />
