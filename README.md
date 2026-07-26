@@ -131,14 +131,25 @@
 
 ## 📊 GitHub Analytics
 
+<!-- Added: Comprehensive Metrics Card -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Alkamel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://metrics.le33.ru/Ahmed-Alkamel?template=classic&config.timezone=Asia%2FAden" alt="GitHub Metrics" />
 </div>
 
+<br/>
+
+<!-- Existing: Standard Stats & Streak -->
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Alkamel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Alkamel&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<!-- Added: Detailed Interaction Stats (Reviews, PRs, etc.) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Alkamel&show=reviews,discussions_authored,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&hide_border=true" alt="Detailed Stats" />
+</div>
+
+<!-- Existing: Top Languages -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Alkamel&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
