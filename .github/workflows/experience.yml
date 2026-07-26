@@ -1,0 +1,30 @@
+name: Update Experience Years
+
+on:
+  schedule:
+    # يعمل تلقائياً في اليوم الأول من كل عام
+    - cron: '0 0 1 1 *'
+  workflow_dispatch: # للسماح بتشغيله يدوياً للتجربة
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Calculate Experience and Update README
+        run: |
+          CURRENT_YEAR=$(date +'%Y')
+          START_YEAR=2022
+          EXPERIENCE=$((CURRENT_YEAR - START_YEAR))
+          
+          # البحث عن الرقم القديم واستبداله بالجديد باستخدام sed
+          sed -i -E "s/<!-- START_EXPERIENCE -->[0-9]+<!-- END_EXPERIENCE -->/<!-- START_EXPERIENCE -->${EXPERIENCE}<!-- END_EXPERIENCE -->/g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Auto-update years of experience" || exit 0
+          git push
