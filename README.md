@@ -5,13 +5,28 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-Alkamel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Ahmed-Alkamel?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Alkamel&label=Profile%20views&color=2E86AB&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Ahmed-Alkamel?label=Followers&style=for-the-badge&color=2E86AB" alt="GitHub followers" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:6DD5FA&height=120&section=header" />
 </p>
 
 ## 🚀 About Me
 
 **Flutter Developer** with **4+ years of experience** in cross-platform mobile development. I specialize in building comprehensive digital solutions including **Frontend** and **Backend** with a focus on **Clean Architecture** and software engineering best practices.
+
+```
+const Ahmed = {
+    role: "Flutter & Backend Developer",
+    stack: ["Flutter", "Dart", "Laravel", "PHP"],
+    focus: "Clean Architecture & Full-Stack Mobile Solutions",
+    apps_published: 4,
+    location: "Ibb, Yemen 🇾🇪",
+    freelance: true
+};
+```
 
 - 🔭 Currently working on **Flutter** applications with **Laravel Backend**
 - 🌱 Continuously learning the latest **Mobile Development** technologies
@@ -19,6 +34,8 @@
 - 💼 Available for **Freelance** and **Remote Work** opportunities
 - 🏠 Based in **Ibb, Yemen**
 - 📫 Reach me at: **ahmedalkamel.it@gmail.com**
+
+<br/>
 
 ## 🛠️ Technical Skills
 
@@ -84,128 +101,178 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
+<br/>
+
 ## 🏆 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🚚 Lahadat Delivery App
-**Comprehensive delivery and general services application**
+Comprehensive delivery and general services application
 
-- **Tech Stack**: Flutter, Laravel, MySQL, Filament PHP
-- **Platforms**: iOS, Android
-- **Features**: Multi-branch system, Order tracking, Admin dashboard
-- **Status**: Live on App Store & Play Store
+**Stack**: Flutter · Laravel · MySQL · Filament PHP
+**Platforms**: iOS · Android
+**Highlights**: Multi-branch system · Order tracking · Admin dashboard
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.eys.lahadat.lahadat_pro)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6746438326)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.eys.lahadat.lahadat_pro)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6746438326)
+
+</td>
+<td width="50%">
 
 ### 🛍️ Khosomat Shopping App
-**E-commerce platform for discounts and deals**
+E-commerce platform for discounts and deals
 
-- **Tech Stack**: Flutter, Laravel, REST API
-- **Platform**: Android
-- **Features**: Product catalog, Push notifications, Deals management
-- **Status**: Live on Play Store
+**Stack**: Flutter · Laravel · REST API
+**Platform**: Android
+**Highlights**: Product catalog · Push notifications · Deals management
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.khosomat.eys)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.khosomat.eys)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 💼 Elcsigma App
-**Specialized services application - Frontend Development**
+Specialized services application — Frontend Development
 
-- **Tech Stack**: Flutter, BLoC Pattern
-- **Platforms**: iOS, Android
-- **Role**: Frontend Developer in a team
-- **Status**: Live on both platforms
+**Stack**: Flutter · BLoC Pattern
+**Platforms**: iOS · Android
+**Role**: Frontend Developer in a team
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.elcsigma.app)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/elcsigma/id6746172836)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.elcsigma.app)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/elcsigma/id6746172836)
+
+</td>
+<td width="50%">
 
 ### 🎯 Aynur App
-**Services application - Development & Maintenance**
+Services application — Development & Maintenance
 
-- **Tech Stack**: Flutter, Clean Architecture
-- **Platforms**: iOS, Android
-- **Role**: Developer & Maintainer
-- **Status**: Live and actively maintained
+**Stack**: Flutter · Clean Architecture
+**Platforms**: iOS · Android
+**Role**: Developer & Maintainer
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aynur.app)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/aynur/id6743452665)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aynur.app)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/aynur/id6743452665)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 📊 GitHub Analytics
 
-<!-- Added: Comprehensive Metrics Card -->
 <div align="center">
   <img src="https://metrics.le33.ru/Ahmed-Alkamel?template=classic&config.timezone=Asia%2FAden" alt="GitHub Metrics" />
 </div>
 
 <br/>
 
-<!-- Existing: Standard Stats & Streak -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Alkamel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Alkamel&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats-seven-eta-63.vercel.app/api?username=Ahmed-Alkamel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Alkamel&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<!-- Added: Detailed Interaction Stats (Reviews, PRs, etc.) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Alkamel&show=reviews,discussions_authored,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&hide_border=true" alt="Detailed Stats" />
+  <img src="https://github-readme-stats-seven-eta-63.vercel.app/api?username=Ahmed-Alkamel&show=reviews,discussions_authored,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&hide_border=true&count_private=true" alt="Detailed Stats" />
 </div>
 
-<!-- Existing: Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Alkamel&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-seven-eta-63.vercel.app/api/top-langs/?username=Ahmed-Alkamel&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Alkamel&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Alkamel&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophy" />
 </div>
 
 ## 📈 Weekly Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Alkamel&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Alkamel&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
+
+<br/>
 
 ## 🎓 Education & Certifications
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏫 Academic Background
 - **Bachelor's in Information Technology**
-- **Malaysian University, Ibb** (2023)
+  Malaysian University, Ibb — 2023
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏆 Professional Certifications
-- **🔧 Google IT Support Certificate** - Google Career Certificates (Coursera)
-- **🤖 Machine Learning Certificate** - Stanford University (Coursera)
-- **📱 Flutter Development Workshop** - Smart University (Online)
+- 🔧 **Google IT Support Certificate** — Google Career Certificates (Coursera)
+- 🤖 **Machine Learning Certificate** — Stanford University (Coursera)
+- 📱 **Flutter Development Workshop** — Smart University
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 💼 Services Available
 
-### 📱 Mobile App Development
-- **Flutter** cross-platform development
-- **Android** & **iOS** native applications
-- **Clean Architecture** implementation
-- **Custom UI/UX** design
+<table>
+<tr>
+<td width="25%" valign="top">
 
-### 🌐 Backend Development
-- **Laravel API** development
-- **Database** design and management
-- **Filament PHP** admin panels
-- **RESTful APIs** integration
+**📱 Mobile App Development**
+- Flutter cross-platform apps
+- Android & iOS native
+- Clean Architecture
+- Custom UI/UX design
 
-### 📊 System Analysis
-- **Requirements analysis**
-- **Database architecture** design
-- **Software architecture** planning
-- **Technical documentation**
+</td>
+<td width="25%" valign="top">
 
-### 🛠️ Maintenance & Support
-- **Application maintenance**
-- **Performance optimization**
-- **Bug fixing** & troubleshooting
-- **Feature development**
+**🌐 Backend Development**
+- Laravel API development
+- Database design
+- Filament PHP admin panels
+- RESTful APIs integration
+
+</td>
+<td width="25%" valign="top">
+
+**📊 System Analysis**
+- Requirements analysis
+- Database architecture
+- Software architecture planning
+- Technical documentation
+
+</td>
+<td width="25%" valign="top">
+
+**🛠️ Maintenance & Support**
+- App maintenance
+- Performance optimization
+- Bug fixing & troubleshooting
+- Feature development
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🌐 Languages
-- **🇺🇸 English**: Intermediate Level
-- **🇸🇦 Arabic**: Native Speaker
+🇺🇸 **English** — Intermediate&nbsp;&nbsp;|&nbsp;&nbsp;🇸🇦 **Arabic** — Native
+
+<br/>
 
 ## 📞 Get In Touch
 
@@ -224,19 +291,19 @@
   </a>
 </div>
 
-## 📊 Quick Stats
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=for-the-badge" alt="Experience" />
-  <img src="https://img.shields.io/badge/Published%20Apps-4-green?style=for-the-badge" alt="Published Apps" />
-  <img src="https://img.shields.io/badge/Platforms-iOS%20%7C%20Android-orange?style=for-the-badge" alt="Platforms" />
-  <img src="https://img.shields.io/badge/Specialization-Full%20Stack%20Mobile-purple?style=for-the-badge" alt="Specialization" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-2E86AB?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Published%20Apps-4-6DD5FA?style=for-the-badge" alt="Published Apps" />
+  <img src="https://img.shields.io/badge/Platforms-iOS%20%7C%20Android-2E86AB?style=for-the-badge" alt="Platforms" />
+  <img src="https://img.shields.io/badge/Specialization-Full%20Stack%20Mobile-6DD5FA?style=for-the-badge" alt="Specialization" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:6DD5FA&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" alt="Footer" />
 </div>
 
 <div align="center">
